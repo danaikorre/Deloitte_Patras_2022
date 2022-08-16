@@ -17,7 +17,7 @@ instructor: ["Barbara Shih", "Danai Korre"] # boxed, comma-separated list of ins
 helper: ["Kashyap Chhatbar"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["d.korre@ed.ac.uk"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, 
 collaborative_notes: https://pad.carpentries.org/16-9-2022_UoE # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
-eventbrite:    https://www.eventbrite.co.uk/e/programming-ang-plotting-with-python-tickets-402698160037       
+     
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
